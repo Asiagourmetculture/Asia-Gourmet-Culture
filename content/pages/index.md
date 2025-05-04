@@ -4,15 +4,15 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Asia Gourmet & Culture
+      text: "Asia Gourmet & Culture"
       color: text-dark
       type: TitleBlock
-    subtitle: Un evento dedicato ai sapori autentici dell’Asia ed alle sue culture 
+    subtitle: "Un evento dedicato ai sapori autentici dell’Asia ed alle sue culture" 
     text: >
       Il 25 ottobre 2025, al **Hotel Coronado di Mendrisio**, vi aspetta un’esperienza multisensoriale con degustazioni, ingredienti rari e incontri culturali. 🇯🇵🇨🇳🇮🇳🇰🇷🇹🇭🇨🇭
     Scoprite con noi l’essenza del gusto e delle tradizioni orientali. 
     actions:
-      - label: Save the Date
+      - label: "Save the Date"
         altText: ''
         url: /
         showIcon: true
@@ -32,11 +32,11 @@ sections:
         type: Link
     media:
       url: /images/logo-asiagc.png
-      altText: Logo Asia Gourmet & Culture
+      altText: "Logo Asia Gourmet & Culture"
       elementId: ''
       type: ImageBlock
     badge:
-      label: 25.10.2025 – Mendrisio
+      label: "25.10.2025 – Mendrisio"
       color: text-primary
       type: Badge
     elementId: ''
