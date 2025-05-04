@@ -10,7 +10,7 @@ sections:
     subtitle: "Un evento dedicato ai sapori autentici dell’Asia ed alle sue culture" 
     text: >
       "Il 25 ottobre 2025, al **Hotel Coronado di Mendrisio**, vi aspetta un’esperienza multisensoriale con degustazioni, ingredienti rari e incontri culturali. "
-    Scoprite con noi l’essenza del gusto e delle tradizioni orientali. 
+    "Scoprite con noi l’essenza del gusto e delle tradizioni orientali." 
     actions:
       - label: "Save the Date"
         altText: ''
