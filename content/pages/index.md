@@ -4,22 +4,21 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Asia Gourmet & Culture
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Un evento dedicato ai sapori autentici dell’Asia ed alle sue culture 
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Il 25 ottobre 2025, al **Hotel Coronado di Mendrisio**, vi aspetta un’esperienza multisensoriale con degustazioni, ingredienti rari e incontri culturali. 🇯🇵🇨🇳🇮🇳🇰🇷🇹🇭🇨🇭
+    Scoprite con noi l’essenza del gusto e delle tradizioni orientali. 
     actions:
-      - label: Get started
+      - label: Save the Date
         altText: ''
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
       - label: See Tutorials
@@ -32,12 +31,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
+      url: /images/logo-asiagc.png
+      altText: Logo Asia Gourmet & Culture
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 25.10.2025 – Mendrisio
       color: text-primary
       type: Badge
     elementId: ''
